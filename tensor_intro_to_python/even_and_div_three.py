@@ -1,3 +1,8 @@
+"""
+вывести на экран все четные, кратные трем, значения от 1 до 123
+"""
+
+
 def even_and_div_three(first, second):
     i = first
     while i <= second:
