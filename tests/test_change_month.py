@@ -7,5 +7,3 @@ def test_answer_1():
 
 def test_answer_2():
     assert change_month('01.11.10', -5) == '01.06.10'
-
-
